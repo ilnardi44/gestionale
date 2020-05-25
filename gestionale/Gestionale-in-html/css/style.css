@@ -1,0 +1,67 @@
+body{
+    background-color: #b5b5b5;
+    margin: 0;
+}
+header{
+    background-color: #383232;
+    color: white;
+    padding: 5px;
+    margin: 0%;
+    position: sticky;
+}
+
+footer{
+    background-color: #383232;
+    color: white;
+    padding: 60px;
+    margin: 0;
+}
+
+.Tabella{
+    padding: 15px;
+    margin: 15px;
+    height: 200px;
+    width: 225px;
+    background-color: #383232;
+    color: white;
+    border-style: solid;
+    align-items: center;
+    -webkit-box-shadow: 4px -1px 11px 1px rgba(0,0,0,0.63);
+    -moz-box-shadow: 4px -1px 11px 1px rgba(0,0,0,0.63);
+    box-shadow: 4px -1px 11px 1px rgba(0,0,0,0.63);
+    margin-left: 37%;
+}
+
+.Tabella:hover{
+    padding: 20px
+}
+
+a.anni{
+    color: white;
+}
+
+a.profili{
+    color: white;
+}
+
+a{
+    text-decoration: none;
+}
+ 
+.ricerca{
+    color: black;
+}
+::selection{
+    color: orange;
+    background-color: blue;
+}
+
+button.Bottoni{
+    text-decoration: none;
+    color: black;
+}
+
+a.genere{
+    color: white;
+    text-decoration: none;
+}
